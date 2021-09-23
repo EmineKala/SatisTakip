@@ -21,3 +21,4 @@ C:\Users\Emine\Documents\GitHub\SatisTakip\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\P
 C:\Users\Emine\Documents\GitHub\SatisTakip\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.exe
 C:\Users\Emine\Documents\GitHub\SatisTakip\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.pdb
 C:\Users\Emine\Documents\GitHub\SatisTakip\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.FrmMusteri.resources
+C:\Users\Emine\Documents\GitHub\SatisTakip\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.FrmUrun.resources

@@ -53,6 +53,18 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmIstatistik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIstatistik.Designer.cs">
+      <DependentUpon>FrmIstatistik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKasa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKasa.Designer.cs">
+      <DependentUpon>FrmKasa.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmKategoriler.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -65,6 +77,18 @@
     <Compile Include="FrmMusteri.Designer.cs">
       <DependentUpon>FrmMusteri.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmPersonel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPersonel.Designer.cs">
+      <DependentUpon>FrmPersonel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUrun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUrun.Designer.cs">
+      <DependentUpon>FrmUrun.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -75,6 +99,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmMusteri.resx">
       <DependentUpon>FrmMusteri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUrun.resx">
+      <DependentUpon>FrmUrun.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
